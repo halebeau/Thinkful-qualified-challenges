@@ -1,0 +1,42 @@
+{
+  "name": "zid-fe-react-state-management-xx-assignment",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.1"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1"
+  },
+  "scripts": {
+    "build": "react-scripts build",
+    "docker:build": "docker image build . -t thinkful-ed/zid-fe-react-state-management-xx-assignment",
+    "docker:run": "docker run --rm -it -p 3000:3000 thinkful-ed/zid-fe-react-state-management-xx-assignment",
+    "docker:stop": "docker stop $(docker ps -q)",
+    "docker:test": "docker run -t  thinkful-ed/zid-fe-react-state-management-xx-assignment npm test",
+    "eject": "react-scripts eject",
+    "start": "react-scripts start",
+    "start:solution": "npm run -it docker:build && npm run docker:run",
+    "test": "react-scripts test",
+    "test:solution": "npm run docker:build && npm run docker:test"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

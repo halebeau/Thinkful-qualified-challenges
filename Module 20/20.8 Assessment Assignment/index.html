@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contact List</title>
+    <link rel="stylesheet" href="src/styles.css" />
+  </head>
+  <body>
+    <main id="book">
+      <header><h1>My Contact Book</h1></header>
+      <section id="filter">
+        <form id="filterForm">
+          <label for="filterOptions">Filter By City:</label>
+          <select name="filterOptions" id="filterOptions">
+            <option value="0">-- Select a city --</option>
+          </select>
+        </form>
+      </section>
+      <section id="contacts">
+        <div class="card" data-id="1">
+          <button class="deleteBtn" title="Delete this contact">X</button>
+          <div class="avatar">
+            <div class="circle"></div>
+            <div class="circle"></div>
+            <img src="https://via.placeholder.com/150/FF0000/FFFFFF?text=CD" />
+          </div>
+          <div class="info">
+            <span class="name big">Maximus Aurelius</span>
+            <span class="email small">maximus@senate.com</span>
+          </div>
+          <div class="details">
+            <div class="phone">024-648-3804</div>
+            <div class="website">ambrose.net</div>
+          </div>
+
+          <div class="additional">
+            <div class="address">
+              <div class="suite">Suite 234</div>
+              <div class="street">1 Roman Way</div>
+              <div class="city">Rome, 90210</div>
+            </div>
+            <div class="company">
+              <div class="label">Works at</div>
+              <div class="company-name">Roman Senate</div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <script src="src/index.js"></script>
+  </body>
+</html>

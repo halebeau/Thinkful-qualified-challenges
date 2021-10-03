@@ -1,0 +1,50 @@
+{
+  "name": "react-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "dependencies": {
+    "@babel/core": "7.10.5",
+    "@babel/plugin-proposal-class-properties": "7.10.4",
+    "@babel/preset-env": "7.10.4",
+    "@babel/preset-react": "7.10.4",
+    "@babel/runtime": "7.10.5",
+    "axios": "0.19.2",
+    "classnames": "2.2.6",
+    "cross-fetch": "3.0.5",
+    "escape-html": "1.0.3",
+    "immer": "7.0.5",
+    "marked": "1.1.1",
+    "prop-types": "15.7.2",
+    "react": "16.13.1",
+    "react-cookie": "4.0.3",
+    "react-dom": "16.13.1",
+    "react-is": "^16.13.1",
+    "react-router-dom": "5.2.0"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^12.0.0",
+    "jest": "26.6.0",
+    "react-scripts": "^4.0.3",
+    "sass": "1.20.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "jest",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

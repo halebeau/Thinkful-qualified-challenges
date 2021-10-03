@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+}
+.container {
+  padding: 4px;
+}
+
+.error {
+  color: #bb0000;
+  font-size: 0.9rem;
+}
+
+.messages {
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 10px;
+  border-top: solid 2px rgba(0, 200, 0, 0.2);
+}
+
+.fail {
+  color: #bb0000;
+}
+
+.fail::before {
+  content: "\2717";
+  margin-right: 4px;
+}
+
+.pass {
+  color: #00bb00;
+}
+
+.pass::before {
+  content: "\2713";
+  margin-right: 4px;
+}
+
+.articles {
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+.search {
+  border-top: solid 1px rgba(0, 0, 0, 0.2);
+  border-bottom: solid 1px rgba(0, 0, 0, 0.2);
+  padding: 4px;
+}
+
+.hidden {
+  display: none;
+}
+
+@media screen and (min-width: 600px) {
+  .articles {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (min-width: 900px) {
+  .articles {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}

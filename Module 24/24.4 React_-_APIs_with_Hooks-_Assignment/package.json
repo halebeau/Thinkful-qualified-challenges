@@ -1,0 +1,55 @@
+{
+  "name": "zid-fe-react-apis-with-hooks-xx-assignment",
+  "version": "1.0.0",
+  "description": "zid-fe-react-apis-with-hooks-xx-assignment qualified challenge.",
+  "private": true,
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "cross-fetch": "^3.0.5",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.0"
+  },
+  "scripts": {
+    "start": "concurrently 'npm run start:server' 'npm run start:react'",
+    "start:react": "react-scripts start",
+    "start:server": "json-server ./data/db.json",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "docker:build": "docker image build . -t thinkful-ed/zid-fe-react-apis-with-hooks-01-effect-hook",
+    "docker:run": "docker run --rm -it -p 3000:3000 thinkful-ed/zid-fe-react-apis-with-hooks-01-effect-hook",
+    "docker:stop": "docker stop $(docker ps -q)",
+    "docker:test": "docker run -t  thinkful-ed/zid-fe-react-apis-with-hooks-01-effect-hook npm test",
+    "start:solution": "npm run -it docker:build && npm run docker:run",
+    "test:solution": "npm run docker:build && npm run docker:test"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "author": "Thinkful.com",
+  "license": "UNLICENSED",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "concurrently": "^5.3.0",
+    "json-server": "^0.16.1",
+    "jest-reporter": "^1.0.1"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "zid-fe-react-router-xx-assignment",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "cross-fetch": "^3.1.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.3"
+  },
+  "scripts": {
+    "build": "react-scripts build",
+    "docker:build": "docker image build . -t thinkful-ed/zid-fe-react-router-xx-assignment",
+    "docker:run": "docker run --rm -it -p 3000:3000 thinkful-ed/zid-fe-react-router-xx-assignment",
+    "docker:stop": "docker stop $(docker ps -q)",
+    "docker:test": "docker run -t  thinkful-ed/zid-fe-react-router-xx-assignment npm test",
+    "eject": "react-scripts eject",
+    "start": "react-scripts start",
+    "start:solution": "npm run -it docker:build && npm run docker:run",
+    "test": "react-scripts test --env=jest-environment-jsdom-sixteen",
+    "test:solution": "npm run docker:build && npm run docker:test"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.11.1",
+    "@testing-library/react": "10.4.7",
+    "@testing-library/user-event": "12.0.11",
+    "jest-environment-jsdom-sixteen": "^1.0.3"
+  }
+}

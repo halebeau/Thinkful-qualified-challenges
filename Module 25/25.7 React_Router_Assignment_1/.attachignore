@@ -1,0 +1,10 @@
+__mocks__/fileMock.js
+__mocks__/styleMock.js
+src/__tests__/App.test.js
+src/__tests__/Card.test.js
+src/__tests__/NotFound.test.js
+src/__tests__/Post.test.js
+src/__tests__/PostLink.test.js
+src/__tests__/PostList.test.js
+src/__tests__/PostsNav.test.js
+src/__tests__/User.test.js

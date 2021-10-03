@@ -1,0 +1,231 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;1,500&display=swap");
+
+body {
+  margin: 0;
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+}
+
+header {
+  padding: 6px;
+}
+
+main {
+  padding: 6px;
+}
+
+#book {
+  background: -webkit-gradient(
+    linear,
+    right top,
+    left bottom,
+    from(#2d6120),
+    to(#bee6b4)
+  );
+  background: linear-gradient(to bottom left, #2d6120, #bee6b4);
+  background-size: 125% 125%;
+  color: #2d6120;
+}
+
+header {
+  width: 95%;
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+#filter {
+  width: 95%;
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+#contacts {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 16px;
+  width: 95%;
+  margin: 20px auto;
+  max-width: 1200px;
+  box-shadow: 4px 8px 16px 0 rgba(0, 0, 0, 0.1);
+}
+
+.divider {
+  margin-top: 20px;
+  border-top: 1px solid rgba(0, 0, 0, 0.2);
+  font-size: 0.8rem;
+  color: rgba(0, 0, 0, 0.5);
+  padding-top: 4px;
+  text-align: center;
+}
+
+/*Card*/
+
+.card {
+  position: relative;
+  background: white;
+  box-shadow: 4px 8px 16px 0 #1b3b14;
+}
+
+.card .deleteBtn {
+  position: absolute;
+  top: 2px;
+  right: 2px;
+  border: solid 1px #2d6120;
+  border-radius: 50%;
+  cursor: pointer;
+  width: 25px;
+  height: 25px;
+}
+
+.card .deleteBtn:hover {
+  background: #ffffff;
+  -webkit-transform: rotate(360deg);
+  transform: rotate(360deg);
+  -webkit-transition: all 1.5s ease-in-out;
+  transition: all 1.5s ease-in-out;
+}
+
+.card .avatar {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  cursor: pointer;
+  background: #bee6b4;
+  margin: 10px auto;
+  position: relative;
+}
+.card .avatar .circle {
+  position: absolute;
+  box-sizing: border-box;
+
+  border-radius: 50%;
+  -webkit-transition: all 1.5s ease-in-out;
+  transition: all 1.5s ease-in-out;
+  border: 1px solid;
+}
+.card .avatar .circle:first-child {
+  left: -3px;
+  top: -3px;
+  width: 76px;
+  height: 76px;
+  border-color: #2d6120 #2d6120 #2d6120 transparent;
+}
+.card .avatar .circle:nth-child(2) {
+  left: -6px;
+  top: -6px;
+  width: 82px;
+  height: 82px;
+  border-color: #2d6120 transparent #2d6120 #2d6120;
+}
+.card .avatar:hover .circle:first-child {
+  -webkit-transform: rotate(360deg);
+  transform: rotate(360deg);
+}
+.card .avatar:hover .circle:nth-child(2) {
+  -webkit-transform: rotate(-360deg);
+  transform: rotate(-360deg);
+}
+.card .avatar img {
+  width: inherit;
+  height: inherit;
+  display: block;
+  border-radius: inherit;
+}
+.card .info {
+  text-align: center;
+  width: 100%;
+}
+.card .info span {
+  display: block;
+}
+.card .info span.small {
+  top: 22px;
+}
+.card .phone,
+.website {
+  text-align: center;
+}
+.card .details {
+  padding-top: 8px;
+  text-transform: capitalize;
+  text-align: center;
+  font-size: 12px;
+  font-weight: 600;
+  color: #2d6120;
+}
+
+.card .additional {
+  position: relative;
+  height: 100px;
+  background: #cfecc7;
+  box-shadow: 0 -1px white;
+  display: flex;
+  font-size: 0.9rem;
+}
+
+.card .additional .address {
+  flex: 1;
+  border-right: solid 2px rgba(255, 255, 255, 0.5);
+  padding: 6px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card .additional .address div {
+  width: 90%;
+}
+
+.card .company {
+  flex: 1;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.card .company .label {
+  font-weight: bold;
+}
+
+span {
+  text-transform: none;
+  text-align: center;
+}
+span.big {
+  font-size: 18px;
+  font-weight: 600;
+}
+span.small {
+  font-size: 12px;
+  font-weight: 300;
+}
+
+/*Card End*/
+
+#mocha {
+  position: relative;
+}
+
+#mocha-stats {
+  position: absolute;
+}
+
+@media screen and (min-width: 600px) {
+  #contacts {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (min-width: 900px) {
+  #contacts {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  #contacts {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
