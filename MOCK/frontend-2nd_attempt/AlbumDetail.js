@@ -27,3 +27,5 @@ export default function AlbumDetail({ album, id }) {
 
    return <p>{photoMap.slice(0, 10)}</p>;
 }
+
+
