@@ -32,7 +32,7 @@ const mapped = albums.map((album, index) => {
    );
 });
 
-return <div className="App">{mapped}</div>;
+   return <div className="App">{mapped}</div>;
 }
 
 export default App;

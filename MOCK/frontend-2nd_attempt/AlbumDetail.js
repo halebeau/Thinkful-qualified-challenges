@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 
 export default function AlbumDetail({ album, id }) {
    const [photos, setPhotos] = useState([]);
+   
    useEffect(() => {
       fetch(`https://jsonplaceholder.typicode.com/albums/${album.id}/photos`)
          .then((response) => response.json())
