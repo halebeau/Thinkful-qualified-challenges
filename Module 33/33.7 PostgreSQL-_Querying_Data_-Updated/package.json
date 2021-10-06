@@ -1,0 +1,24 @@
+{
+  "name": "postgresql-querying-data",
+  "version": "1.0.0",
+  "description": "PostgreSQL: Querying Data",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "start:dev": "nodemon src/server.js",
+    "start:solution": "docker-compose up --build",
+    "test": "jest",
+    "test:solution": "docker-compose build && docker-compose run api npm test",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^26.4.2",
+    "pg": "^8.3.3"
+  }
+}

@@ -1,0 +1,2 @@
+SELECT description
+FROM artworks;
