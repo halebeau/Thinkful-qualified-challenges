@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 function AlbumDetail({ id, title }) {
    const [photos, setPhotos] = useState([]);
-   var loadPhotos = () => {
+   let loadPhotos = () => {
       fetch(`https://jsonplaceholder.typicode.com/albums/${id}/photos`)
          .then((response) => response.json())
          .then((photos) => setPhotos(photos.slice(0, 10)))
