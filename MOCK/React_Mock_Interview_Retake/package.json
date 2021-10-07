@@ -1,0 +1,45 @@
+{
+  "name": "mock-interview-frontend-retake",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.12.0",
+    "@testing-library/react": "^11.2.6",
+    "@testing-library/user-event": "^12.8.3",
+    "cross-fetch": "^3.1.4",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "web-vitals": "^1.1.1"
+  },
+  "scripts": {
+    "build": "react-scripts build",
+    "docker:build": "docker image build . -t thinkful-ed/mock-interview-frontend-retake",
+    "docker:run": "docker run --rm -it -p 3000:3000 thinkful-ed/mock-interview-frontend-retake",
+    "docker:stop": "docker stop $(docker ps -q)",
+    "docker:test": "docker run -t thinkful-ed/mock-interview-frontend-retake npm test",
+    "eject": "react-scripts eject",
+    "start": "react-scripts start",
+    "start:solution": "npm run -it docker:build && npm run docker:run",
+    "test": "react-scripts test",
+    "test:solution": "npm run docker:build && npm run docker:test"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
