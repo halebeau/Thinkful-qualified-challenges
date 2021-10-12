@@ -1,0 +1,702 @@
+[
+  {
+    "restaurant_name": "Spic And Span All Purpose",
+    "cuisine": "Micronesian",
+    "address": "06780 Fair Oaks Court",
+    "rating": 1.4,
+    "owner_id": 14
+  },
+  {
+    "restaurant_name": "Puff Pastry - Slab",
+    "cuisine": "Houma",
+    "address": "4 Leroy Parkway",
+    "rating": 3.1,
+    "owner_id": 11
+  },
+  {
+    "restaurant_name": "Tea - Herbal Orange Spice",
+    "cuisine": "Central American",
+    "address": "20 Monument Hill",
+    "rating": 1.8,
+    "owner_id": 17
+  },
+  {
+    "restaurant_name": "Wine - Vidal Icewine Magnotta",
+    "cuisine": "Tohono O'Odham",
+    "address": "65744 Heath Avenue",
+    "rating": 4.5,
+    "owner_id": 9
+  },
+  {
+    "restaurant_name": "Soup - Knorr, French Onion",
+    "cuisine": "Chickasaw",
+    "address": "60 Moose Parkway",
+    "rating": 1.4,
+    "owner_id": 10
+  },
+  {
+    "restaurant_name": "Madeira",
+    "cuisine": "Asian",
+    "address": "998 3rd Terrace",
+    "rating": 4.5,
+    "owner_id": 23
+  },
+  {
+    "restaurant_name": "Samosa - Veg",
+    "cuisine": "Navajo",
+    "address": "87914 Linden Lane",
+    "rating": 1.1,
+    "owner_id": 25
+  },
+  {
+    "restaurant_name": "Canadian Emmenthal",
+    "cuisine": "Hmong",
+    "address": "65580 Knutson Hill",
+    "rating": 4.3,
+    "owner_id": 4
+  },
+  {
+    "restaurant_name": "Beans - Soya Bean",
+    "cuisine": "Pakistani",
+    "address": "42714 Onsgard Center",
+    "rating": 5.0,
+    "owner_id": 1
+  },
+  {
+    "restaurant_name": "Butter Balls Salted",
+    "cuisine": "Paiute",
+    "address": "91 Linden Pass",
+    "rating": 2.3,
+    "owner_id": 23
+  },
+  {
+    "restaurant_name": "Wiberg Cure",
+    "cuisine": "South American",
+    "address": "559 Cody Way",
+    "rating": 4.5,
+    "owner_id": 21
+  },
+  {
+    "restaurant_name": "Wine - Peller Estates Late",
+    "cuisine": "Menominee",
+    "address": "2 Veith Center",
+    "rating": 1.0,
+    "owner_id": 13
+  },
+  {
+    "restaurant_name": "Veal - Ground",
+    "cuisine": "Korean",
+    "address": "2907 Glendale Pass",
+    "rating": 3.1,
+    "owner_id": 22
+  },
+  {
+    "restaurant_name": "Asparagus - Green, Fresh",
+    "cuisine": "Alaska Native",
+    "address": "971 Bashford Parkway",
+    "rating": 2.5,
+    "owner_id": 5
+  },
+  {
+    "restaurant_name": "Maintenance Removal Charge",
+    "cuisine": "Costa Rican",
+    "address": "791 Springs Crossing",
+    "rating": 2.9,
+    "owner_id": 14
+  },
+  {
+    "restaurant_name": "Pecan Raisin - Tarts",
+    "cuisine": "Honduran",
+    "address": "83 Barnett Parkway",
+    "rating": 4.4,
+    "owner_id": 3
+  },
+  {
+    "restaurant_name": "Lidsoupcont Rp12dn",
+    "cuisine": "Potawatomi",
+    "address": "1765 Main Way",
+    "rating": 3.7,
+    "owner_id": 12
+  },
+  {
+    "restaurant_name": "Lemon Balm - Fresh",
+    "cuisine": "Hmong",
+    "address": "5 Daystar Point",
+    "rating": 4.6,
+    "owner_id": 19
+  },
+  {
+    "restaurant_name": "Ecolab - Power Fusion",
+    "cuisine": "Alaskan Athabascan",
+    "address": "552 Ridge Oak Plaza",
+    "rating": 4.3,
+    "owner_id": 15
+  },
+  {
+    "restaurant_name": "Lentils - Red, Dry",
+    "cuisine": "Yuman",
+    "address": "8037 Caliangt Court",
+    "rating": 1.8,
+    "owner_id": 8
+  },
+  {
+    "restaurant_name": "Pop Shoppe Cream Soda",
+    "cuisine": "Bangladeshi",
+    "address": "0 Nancy Center",
+    "rating": 1.0,
+    "owner_id": 23
+  },
+  {
+    "restaurant_name": "Chocolate - Milk",
+    "cuisine": "Asian Indian",
+    "address": "5 Hooker Street",
+    "rating": 4.8,
+    "owner_id": 4
+  },
+  {
+    "restaurant_name": "Flower - Dish Garden",
+    "cuisine": "Mexican",
+    "address": "51127 Swallow Circle",
+    "rating": 4.7,
+    "owner_id": 15
+  },
+  {
+    "restaurant_name": "Tea - Grapefruit Green Tea",
+    "cuisine": "Cuban",
+    "address": "0 Kim Junction",
+    "rating": 3.5,
+    "owner_id": 12
+  },
+  {
+    "restaurant_name": "Fish - Halibut, Cold Smoked",
+    "cuisine": "Samoan",
+    "address": "248 Dottie Way",
+    "rating": 2.7,
+    "owner_id": 22
+  },
+  {
+    "restaurant_name": "Butter Sweet",
+    "cuisine": "Colville",
+    "address": "9478 Garrison Park",
+    "rating": 4.2,
+    "owner_id": 10
+  },
+  {
+    "restaurant_name": "Crush - Orange, 355ml",
+    "cuisine": "Bolivian",
+    "address": "36 Corry Point",
+    "rating": 2.9,
+    "owner_id": 13
+  },
+  {
+    "restaurant_name": "Persimmons",
+    "cuisine": "Dominican (Dominican Republic)",
+    "address": "707 Hauk Trail",
+    "rating": 2.7,
+    "owner_id": 13
+  },
+  {
+    "restaurant_name": "Kumquat",
+    "cuisine": "Pima",
+    "address": "01 Columbus Road",
+    "rating": 3.3,
+    "owner_id": 21
+  },
+  {
+    "restaurant_name": "Creme De Menthe Green",
+    "cuisine": "Bolivian",
+    "address": "5668 Messerschmidt Point",
+    "rating": 1.3,
+    "owner_id": 23
+  },
+  {
+    "restaurant_name": "Chicken - Wieners",
+    "cuisine": "Apache",
+    "address": "8 Loomis Lane",
+    "rating": 2.8,
+    "owner_id": 14
+  },
+  {
+    "restaurant_name": "Mustard - Individual Pkg",
+    "cuisine": "Pima",
+    "address": "00106 Graedel Point",
+    "rating": 4.7,
+    "owner_id": 17
+  },
+  {
+    "restaurant_name": "Nantucket - 518ml",
+    "cuisine": "Hmong",
+    "address": "28 Merrick Junction",
+    "rating": 1.1,
+    "owner_id": 20
+  },
+  {
+    "restaurant_name": "Table Cloth 62x114 Colour",
+    "cuisine": "Iroquois",
+    "address": "0 Gateway Way",
+    "rating": 2.4,
+    "owner_id": 16
+  },
+  {
+    "restaurant_name": "Chinese Foods - Pepper Beef",
+    "cuisine": "Aleut",
+    "address": "00987 Atwood Trail",
+    "rating": 2.7,
+    "owner_id": 25
+  },
+  {
+    "restaurant_name": "Wine - Cava Aria Estate Brut",
+    "cuisine": "Honduran",
+    "address": "7 Katie Way",
+    "rating": 2.5,
+    "owner_id": 6
+  },
+  {
+    "restaurant_name": "Olives - Morracan Dired",
+    "cuisine": "Indonesian",
+    "address": "196 Union Avenue",
+    "rating": 2.9,
+    "owner_id": 21
+  },
+  {
+    "restaurant_name": "Orange Roughy 4/6 Oz",
+    "cuisine": "Japanese",
+    "address": "9944 Veith Place",
+    "rating": 1.4,
+    "owner_id": 6
+  },
+  {
+    "restaurant_name": "Pasta - Cappellini, Dry",
+    "cuisine": "Crow",
+    "address": "833 Hollow Ridge Junction",
+    "rating": 4.7,
+    "owner_id": 10
+  },
+  {
+    "restaurant_name": "Flavouring - Orange",
+    "cuisine": "Japanese",
+    "address": "68708 Fremont Way",
+    "rating": 2.7,
+    "owner_id": 20
+  },
+  {
+    "restaurant_name": "Jam - Raspberry,jar",
+    "cuisine": "Paraguayan",
+    "address": "49775 Mcbride Street",
+    "rating": 1.3,
+    "owner_id": 6
+  },
+  {
+    "restaurant_name": "Sour Puss Sour Apple",
+    "cuisine": "Black or African American",
+    "address": "44709 Bayside Pass",
+    "rating": 1.9,
+    "owner_id": 23
+  },
+  {
+    "restaurant_name": "Cabbage - Green",
+    "cuisine": "Guatemalan",
+    "address": "79374 Sloan Point",
+    "rating": 3.0,
+    "owner_id": 17
+  },
+  {
+    "restaurant_name": "Cheese - Cheddar, Medium",
+    "cuisine": "Tongan",
+    "address": "65265 Thierer Lane",
+    "rating": 4.5,
+    "owner_id": 8
+  },
+  {
+    "restaurant_name": "Bok Choy - Baby",
+    "cuisine": "Thai",
+    "address": "98 Stuart Street",
+    "rating": 4.9,
+    "owner_id": 12
+  },
+  {
+    "restaurant_name": "Soup - Knorr, Chicken Gumbo",
+    "cuisine": "Panamanian",
+    "address": "566 Sherman Hill",
+    "rating": 1.7,
+    "owner_id": 12
+  },
+  {
+    "restaurant_name": "Jam - Marmalade, Orange",
+    "cuisine": "Polynesian",
+    "address": "6 Lotheville Road",
+    "rating": 2.4,
+    "owner_id": 5
+  },
+  {
+    "restaurant_name": "Tomatoes Tear Drop",
+    "cuisine": "Yaqui",
+    "address": "6 Schurz Circle",
+    "rating": 2.7,
+    "owner_id": 2
+  },
+  {
+    "restaurant_name": "Juice - Lemon",
+    "cuisine": "Central American",
+    "address": "541 Miller Crossing",
+    "rating": 3.8,
+    "owner_id": 24
+  },
+  {
+    "restaurant_name": "Wanton Wrap",
+    "cuisine": "Asian Indian",
+    "address": "70 Prairie Rose Parkway",
+    "rating": 1.2,
+    "owner_id": 2
+  },
+  {
+    "restaurant_name": "Trueblue - Blueberry",
+    "cuisine": "Puget Sound Salish",
+    "address": "2 Hansons Circle",
+    "rating": 3.2,
+    "owner_id": 6
+  },
+  {
+    "restaurant_name": "Gloves - Goldtouch Disposable",
+    "cuisine": "Ute",
+    "address": "7100 Sugar Circle",
+    "rating": 4.8,
+    "owner_id": 6
+  },
+  {
+    "restaurant_name": "Onions - Red Pearl",
+    "cuisine": "Melanesian",
+    "address": "81 Lakeland Way",
+    "rating": 1.5,
+    "owner_id": 24
+  },
+  {
+    "restaurant_name": "Gatorade - Cool Blue Raspberry",
+    "cuisine": "Iroquois",
+    "address": "5826 Monument Way",
+    "rating": 4.2,
+    "owner_id": 22
+  },
+  {
+    "restaurant_name": "Miso - Soy Bean Paste",
+    "cuisine": "Chickasaw",
+    "address": "022 Dryden Street",
+    "rating": 2.3,
+    "owner_id": 11
+  },
+  {
+    "restaurant_name": "Juice - Cranberry, 341 Ml",
+    "cuisine": "Navajo",
+    "address": "29282 Del Sol Terrace",
+    "rating": 4.8,
+    "owner_id": 24
+  },
+  {
+    "restaurant_name": "Cookies - Fortune",
+    "cuisine": "Asian Indian",
+    "address": "748 Meadow Valley Point",
+    "rating": 1.2,
+    "owner_id": 6
+  },
+  {
+    "restaurant_name": "Pineapple - Golden",
+    "cuisine": "Puerto Rican",
+    "address": "9829 Katie Terrace",
+    "rating": 3.2,
+    "owner_id": 20
+  },
+  {
+    "restaurant_name": "Lotus Leaves",
+    "cuisine": "Cuban",
+    "address": "9200 Crowley Park",
+    "rating": 3.0,
+    "owner_id": 6
+  },
+  {
+    "restaurant_name": "Ecolab Digiclean Mild Fm",
+    "cuisine": "Latin American Indian",
+    "address": "52 Lotheville Street",
+    "rating": 4.3,
+    "owner_id": 13
+  },
+  {
+    "restaurant_name": "Eel - Smoked",
+    "cuisine": "Yaqui",
+    "address": "7199 Alpine Street",
+    "rating": 3.7,
+    "owner_id": 8
+  },
+  {
+    "restaurant_name": "Star Fruit",
+    "cuisine": "Sri Lankan",
+    "address": "5662 Ridge Oak Park",
+    "rating": 4.4,
+    "owner_id": 12
+  },
+  {
+    "restaurant_name": "Chocolate - White",
+    "cuisine": "Pakistani",
+    "address": "273 Mariners Cove Junction",
+    "rating": 4.5,
+    "owner_id": 24
+  },
+  {
+    "restaurant_name": "Dill Weed - Fresh",
+    "cuisine": "American Indian and Alaska Native (AIAN)",
+    "address": "9 Sommers Way",
+    "rating": 4.3,
+    "owner_id": 2
+  },
+  {
+    "restaurant_name": "Calypso - Black Cherry Lemonade",
+    "cuisine": "Indonesian",
+    "address": "9924 Jackson Drive",
+    "rating": 4.1,
+    "owner_id": 4
+  },
+  {
+    "restaurant_name": "Table Cloth 54x72 Colour",
+    "cuisine": "Micronesian",
+    "address": "6162 Mandrake Way",
+    "rating": 4.7,
+    "owner_id": 2
+  },
+  {
+    "restaurant_name": "Ham - Smoked, Bone - In",
+    "cuisine": "Honduran",
+    "address": "66122 Birchwood Drive",
+    "rating": 1.6,
+    "owner_id": 23
+  },
+  {
+    "restaurant_name": "Juice - Lemon",
+    "cuisine": "Guatemalan",
+    "address": "775 Crescent Oaks Center",
+    "rating": 2.0,
+    "owner_id": 3
+  },
+  {
+    "restaurant_name": "Nut - Pistachio, Shelled",
+    "cuisine": "Pakistani",
+    "address": "51822 Talmadge Plaza",
+    "rating": 2.8,
+    "owner_id": 20
+  },
+  {
+    "restaurant_name": "Straw - Regular",
+    "cuisine": "Pima",
+    "address": "6940 Lakeland Street",
+    "rating": 5.0,
+    "owner_id": 1
+  },
+  {
+    "restaurant_name": "Wine - Chablis 2003 Champs",
+    "cuisine": "Vietnamese",
+    "address": "999 Ludington Junction",
+    "rating": 3.4,
+    "owner_id": 3
+  },
+  {
+    "restaurant_name": "Lumpfish Black",
+    "cuisine": "Delaware",
+    "address": "45 Saint Paul Hill",
+    "rating": 2.6,
+    "owner_id": 9
+  },
+  {
+    "restaurant_name": "Water - Mineral, Natural",
+    "cuisine": "Sioux",
+    "address": "1 Evergreen Parkway",
+    "rating": 3.6,
+    "owner_id": 16
+  },
+  {
+    "restaurant_name": "Bread - Kimel Stick Poly",
+    "cuisine": "Chinese",
+    "address": "35921 Rieder Plaza",
+    "rating": 2.6,
+    "owner_id": 7
+  },
+  {
+    "restaurant_name": "Cherries - Fresh",
+    "cuisine": "Choctaw",
+    "address": "780 Northview Park",
+    "rating": 1.6,
+    "owner_id": 19
+  },
+  {
+    "restaurant_name": "Bacardi Raspberry",
+    "cuisine": "Colville",
+    "address": "8031 Service Center",
+    "rating": 4.6,
+    "owner_id": 12
+  },
+  {
+    "restaurant_name": "Soup Campbells - Tomato Bisque",
+    "cuisine": "Asian Indian",
+    "address": "060 Mcbride Park",
+    "rating": 4.3,
+    "owner_id": 2
+  },
+  {
+    "restaurant_name": "Soup - Verve - Chipotle Chicken",
+    "cuisine": "Taiwanese",
+    "address": "54 Sullivan Avenue",
+    "rating": 1.9,
+    "owner_id": 14
+  },
+  {
+    "restaurant_name": "Octopus",
+    "cuisine": "Chippewa",
+    "address": "8 Dexter Road",
+    "rating": 1.1,
+    "owner_id": 9
+  },
+  {
+    "restaurant_name": "Water - Green Tea Refresher",
+    "cuisine": "Latin American Indian",
+    "address": "44 Northfield Parkway",
+    "rating": 3.7,
+    "owner_id": 2
+  },
+  {
+    "restaurant_name": "Flower - Dish Garden",
+    "cuisine": "Osage",
+    "address": "6348 Norway Maple Circle",
+    "rating": 3.2,
+    "owner_id": 9
+  },
+  {
+    "restaurant_name": "Beef - Tender Tips",
+    "cuisine": "Yaqui",
+    "address": "88776 High Crossing Crossing",
+    "rating": 4.4,
+    "owner_id": 15
+  },
+  {
+    "restaurant_name": "Lamb Tenderloin Nz Fr",
+    "cuisine": "Salvadoran",
+    "address": "13 Hooker Hill",
+    "rating": 1.1,
+    "owner_id": 11
+  },
+  {
+    "restaurant_name": "Chinese Foods - Chicken",
+    "cuisine": "Asian Indian",
+    "address": "5 Novick Alley",
+    "rating": 2.9,
+    "owner_id": 2
+  },
+  {
+    "restaurant_name": "Wine - Pinot Grigio Collavini",
+    "cuisine": "Apache",
+    "address": "34993 Redwing Circle",
+    "rating": 3.0,
+    "owner_id": 2
+  },
+  {
+    "restaurant_name": "Brandy - Orange, Mc Guiness",
+    "cuisine": "Asian Indian",
+    "address": "20 Sunfield Plaza",
+    "rating": 2.4,
+    "owner_id": 22
+  },
+  {
+    "restaurant_name": "Okra",
+    "cuisine": "Thai",
+    "address": "6356 Rowland Plaza",
+    "rating": 3.2,
+    "owner_id": 7
+  },
+  {
+    "restaurant_name": "Chicken - Breast, 5 - 7 Oz",
+    "cuisine": "Latin American Indian",
+    "address": "23 Village Green Hill",
+    "rating": 4.2,
+    "owner_id": 22
+  },
+  {
+    "restaurant_name": "Pastry - Baked Scones - Mini",
+    "cuisine": "Seminole",
+    "address": "3 School Alley",
+    "rating": 2.2,
+    "owner_id": 24
+  },
+  {
+    "restaurant_name": "Sauce - Soya, Light",
+    "cuisine": "Tlingit-Haida",
+    "address": "52 Emmet Drive",
+    "rating": 2.3,
+    "owner_id": 19
+  },
+  {
+    "restaurant_name": "Zucchini - Mini, Green",
+    "cuisine": "Costa Rican",
+    "address": "51 Lindbergh Trail",
+    "rating": 2.2,
+    "owner_id": 7
+  },
+  {
+    "restaurant_name": "Bag - Bread, White, Plain",
+    "cuisine": "Samoan",
+    "address": "80 Cascade Center",
+    "rating": 1.7,
+    "owner_id": 9
+  },
+  {
+    "restaurant_name": "Five Alive Citrus",
+    "cuisine": "Mexican",
+    "address": "0272 Muir Crossing",
+    "rating": 3.1,
+    "owner_id": 4
+  },
+  {
+    "restaurant_name": "Bread - Hot Dog Buns",
+    "cuisine": "Mexican",
+    "address": "49 Mariners Cove Road",
+    "rating": 4.5,
+    "owner_id": 17
+  },
+  {
+    "restaurant_name": "Chocolate - Semi Sweet",
+    "cuisine": "Tlingit-Haida",
+    "address": "8 Oak Valley Street",
+    "rating": 1.8,
+    "owner_id": 2
+  },
+  {
+    "restaurant_name": "Wine - Cava Aria Estate Brut",
+    "cuisine": "Venezuelan",
+    "address": "0 Golden Leaf Lane",
+    "rating": 2.8,
+    "owner_id": 4
+  },
+  {
+    "restaurant_name": "Papadam",
+    "cuisine": "White",
+    "address": "151 Brentwood Plaza",
+    "rating": 4.8,
+    "owner_id": 24
+  },
+  {
+    "restaurant_name": "Ginger - Ground",
+    "cuisine": "Indonesian",
+    "address": "73 Hanover Center",
+    "rating": 4.0,
+    "owner_id": 25
+  },
+  {
+    "restaurant_name": "Croissants Thaw And Serve",
+    "cuisine": "Argentinian",
+    "address": "4 Golden Leaf Crossing",
+    "rating": 1.8,
+    "owner_id": 7
+  },
+  {
+    "restaurant_name": "Pork - Tenderloin, Frozen",
+    "cuisine": "Malaysian",
+    "address": "284 Sloan Trail",
+    "rating": 1.9,
+    "owner_id": 21
+  }
+]
