@@ -1,0 +1,602 @@
+[
+  {
+    "restaurant_name": "Arizona - Green Tea",
+    "cuisine": "Indonesian",
+    "address": "872 Glendale Parkway",
+    "rating": 2.7
+  },
+  {
+    "restaurant_name": "Puree - Strawberry",
+    "cuisine": "Cree",
+    "address": "4 Banding Circle",
+    "rating": 1.6
+  },
+  {
+    "restaurant_name": "Wine - Chardonnay South",
+    "cuisine": "Black or African American",
+    "address": "6 Susan Court",
+    "rating": 2.0
+  },
+  {
+    "restaurant_name": "Curry Powder Madras",
+    "cuisine": "Ottawa",
+    "address": "116 Starling Hill",
+    "rating": 1.3
+  },
+  {
+    "restaurant_name": "Cheese Cloth No 60",
+    "cuisine": "Laotian",
+    "address": "29464 Ryan Terrace",
+    "rating": 3.2
+  },
+  {
+    "restaurant_name": "Bread - Roll, Canadian Dinner",
+    "cuisine": "Alaskan Athabascan",
+    "address": "31838 Algoma Park",
+    "rating": 4.0
+  },
+  {
+    "restaurant_name": "Napkin - Beverage 1 Ply",
+    "cuisine": "Taiwanese",
+    "address": "6 Armistice Street",
+    "rating": 4.2
+  },
+  {
+    "restaurant_name": "Coffee Cup 12oz 5342cd",
+    "cuisine": "Osage",
+    "address": "774 Hooker Junction",
+    "rating": 1.5
+  },
+  {
+    "restaurant_name": "Lid Coffeecup 12oz D9542b",
+    "cuisine": "Micronesian",
+    "address": "4 Arkansas Circle",
+    "rating": 3.5
+  },
+  {
+    "restaurant_name": "Pastry - Apple Muffins - Mini",
+    "cuisine": "Salvadoran",
+    "address": "16 Shopko Avenue",
+    "rating": 3.2
+  },
+  {
+    "restaurant_name": "Sauce Bbq Smokey",
+    "cuisine": "Chippewa",
+    "address": "3412 Atwood Plaza",
+    "rating": 1.7
+  },
+  {
+    "restaurant_name": "Swordfish Loin Portions",
+    "cuisine": "Colombian",
+    "address": "54 Superior Lane",
+    "rating": 3.0
+  },
+  {
+    "restaurant_name": "Sauce - Soya, Light",
+    "cuisine": "Paiute",
+    "address": "599 Johnson Park",
+    "rating": 3.3
+  },
+  {
+    "restaurant_name": "Cumin - Ground",
+    "cuisine": "Sri Lankan",
+    "address": "2 Packers Park",
+    "rating": 1.2
+  },
+  {
+    "restaurant_name": "Bread - Raisin",
+    "cuisine": "Crow",
+    "address": "03 Dovetail Trail",
+    "rating": 2.9
+  },
+  {
+    "restaurant_name": "Octopus",
+    "cuisine": "Filipino",
+    "address": "62 Ohio Court",
+    "rating": 3.7
+  },
+  {
+    "restaurant_name": "Beef - Tongue, Cooked",
+    "cuisine": "Osage",
+    "address": "8658 Susan Court",
+    "rating": 2.5
+  },
+  {
+    "restaurant_name": "Filter - Coffee",
+    "cuisine": "Central American",
+    "address": "375 Artisan Junction",
+    "rating": 1.7
+  },
+  {
+    "restaurant_name": "Lobster - Canned Premium",
+    "cuisine": "Eskimo",
+    "address": "9 Schmedeman Street",
+    "rating": 4.2
+  },
+  {
+    "restaurant_name": "Olive - Spread Tapenade",
+    "cuisine": "Guatemalan",
+    "address": "7801 Atwood Drive",
+    "rating": 3.1
+  },
+  {
+    "restaurant_name": "Tarragon - Fresh",
+    "cuisine": "Asian",
+    "address": "28429 Goodland Terrace",
+    "rating": 4.1
+  },
+  {
+    "restaurant_name": "Bagelers",
+    "cuisine": "Cambodian",
+    "address": "70 Service Pass",
+    "rating": 4.1
+  },
+  {
+    "restaurant_name": "Beans - Fava Fresh",
+    "cuisine": "Blackfeet",
+    "address": "2930 Colorado Terrace",
+    "rating": 1.3
+  },
+  {
+    "restaurant_name": "Beans - Black Bean, Preserved",
+    "cuisine": "Asian Indian",
+    "address": "66704 Oriole Street",
+    "rating": 3.0
+  },
+  {
+    "restaurant_name": "Chilli Paste, Hot Sambal Oelek",
+    "cuisine": "Hmong",
+    "address": "428 Arizona Street",
+    "rating": 2.1
+  },
+  {
+    "restaurant_name": "Apple - Delicious, Golden",
+    "cuisine": "Chippewa",
+    "address": "4675 David Point",
+    "rating": 2.8
+  },
+  {
+    "restaurant_name": "Stock - Veal, White",
+    "cuisine": "Chippewa",
+    "address": "132 Vahlen Center",
+    "rating": 4.5
+  },
+  {
+    "restaurant_name": "Absolut Citron",
+    "cuisine": "Chinese",
+    "address": "4 Everett Park",
+    "rating": 1.2
+  },
+  {
+    "restaurant_name": "Veal - Knuckle",
+    "cuisine": "Chilean",
+    "address": "59 Jackson Lane",
+    "rating": 1.2
+  },
+  {
+    "restaurant_name": "Juice - V8, Tomato",
+    "cuisine": "Paraguayan",
+    "address": "3614 Morning Court",
+    "rating": 3.6
+  },
+  {
+    "restaurant_name": "Gelatine Leaves - Envelopes",
+    "cuisine": "Ecuadorian",
+    "address": "36233 Gulseth Junction",
+    "rating": 3.3
+  },
+  {
+    "restaurant_name": "Tarragon - Fresh",
+    "cuisine": "Costa Rican",
+    "address": "79745 Florence Center",
+    "rating": 3.4
+  },
+  {
+    "restaurant_name": "Foam Cup 6 Oz",
+    "cuisine": "Yaqui",
+    "address": "928 Grim Park",
+    "rating": 4.9
+  },
+  {
+    "restaurant_name": "Sauce - Bernaise, Mix",
+    "cuisine": "Sri Lankan",
+    "address": "1 Calypso Point",
+    "rating": 1.1
+  },
+  {
+    "restaurant_name": "Sugar - Monocystal / Rock",
+    "cuisine": "Dominican (Dominican Republic)",
+    "address": "333 Mccormick Way",
+    "rating": 3.9
+  },
+  {
+    "restaurant_name": "Flower - Carnations",
+    "cuisine": "Costa Rican",
+    "address": "8226 John Wall Drive",
+    "rating": 4.1
+  },
+  {
+    "restaurant_name": "Beans - Black Bean, Dry",
+    "cuisine": "Spaniard",
+    "address": "00610 Nova Road",
+    "rating": 2.2
+  },
+  {
+    "restaurant_name": "The Pop Shoppe - Grape",
+    "cuisine": "Menominee",
+    "address": "03 Bartillon Place",
+    "rating": 1.9
+  },
+  {
+    "restaurant_name": "Bacardi Breezer - Tropical",
+    "cuisine": "Comanche",
+    "address": "3 Corry Park",
+    "rating": 4.2
+  },
+  {
+    "restaurant_name": "Napkin White - Starched",
+    "cuisine": "Latin American Indian",
+    "address": "06 Warrior Way",
+    "rating": 4.7
+  },
+  {
+    "restaurant_name": "Beer - Steamwhistle",
+    "cuisine": "Crow",
+    "address": "06 Katie Street",
+    "rating": 4.6
+  },
+  {
+    "restaurant_name": "Carbonated Water - Raspberry",
+    "cuisine": "Ottawa",
+    "address": "9 Jay Hill",
+    "rating": 2.2
+  },
+  {
+    "restaurant_name": "Soap - Hand Soap",
+    "cuisine": "Alaskan Athabascan",
+    "address": "8 Vernon Road",
+    "rating": 4.3
+  },
+  {
+    "restaurant_name": "Sobe - Cranberry Grapefruit",
+    "cuisine": "Creek",
+    "address": "766 Fairview Park",
+    "rating": 4.4
+  },
+  {
+    "restaurant_name": "Cornflakes",
+    "cuisine": "Chickasaw",
+    "address": "7 Melody Crossing",
+    "rating": 4.2
+  },
+  {
+    "restaurant_name": "Bagel - Everything",
+    "cuisine": "Chamorro",
+    "address": "521 International Way",
+    "rating": 5.0
+  },
+  {
+    "restaurant_name": "Cookie - Dough Variety",
+    "cuisine": "Creek",
+    "address": "3 Duke Alley",
+    "rating": 1.9
+  },
+  {
+    "restaurant_name": "Muffin - Bran Ind Wrpd",
+    "cuisine": "Salvadoran",
+    "address": "166 Stone Corner Pass",
+    "rating": 1.3
+  },
+  {
+    "restaurant_name": "Nantucket Pine Orangebanana",
+    "cuisine": "Japanese",
+    "address": "686 Holy Cross Road",
+    "rating": 2.1
+  },
+  {
+    "restaurant_name": "Bread - Ciabatta Buns",
+    "cuisine": "Dominican (Dominican Republic)",
+    "address": "582 Village Trail",
+    "rating": 2.2
+  },
+  {
+    "restaurant_name": "Muffin Batt - Ban Dream Zero",
+    "cuisine": "Seminole",
+    "address": "23008 Laurel Lane",
+    "rating": 2.4
+  },
+  {
+    "restaurant_name": "Flower - Commercial Bronze",
+    "cuisine": "Laotian",
+    "address": "58 Sachtjen Court",
+    "rating": 3.8
+  },
+  {
+    "restaurant_name": "Mace Ground",
+    "cuisine": "Native Hawaiian and Other Pacific Islander (NHPI)",
+    "address": "0101 Rusk Point",
+    "rating": 4.4
+  },
+  {
+    "restaurant_name": "Pepper - Paprika, Hungarian",
+    "cuisine": "Pakistani",
+    "address": "1250 Helena Place",
+    "rating": 4.1
+  },
+  {
+    "restaurant_name": "Mushroom - King Eryingii",
+    "cuisine": "Delaware",
+    "address": "014 Union Junction",
+    "rating": 1.5
+  },
+  {
+    "restaurant_name": "Sauce - Alfredo",
+    "cuisine": "Venezuelan",
+    "address": "07157 Arrowood Drive",
+    "rating": 4.2
+  },
+  {
+    "restaurant_name": "Bread - Multigrain, Loaf",
+    "cuisine": "Asian",
+    "address": "65606 Hanover Plaza",
+    "rating": 3.3
+  },
+  {
+    "restaurant_name": "Rice - Sushi",
+    "cuisine": "Sri Lankan",
+    "address": "29377 Monument Way",
+    "rating": 4.9
+  },
+  {
+    "restaurant_name": "Oil - Food, Lacquer Spray",
+    "cuisine": "Colville",
+    "address": "0843 Maple Crossing",
+    "rating": 2.1
+  },
+  {
+    "restaurant_name": "Wine - Magnotta - Bel Paese White",
+    "cuisine": "Shoshone",
+    "address": "13 Towne Road",
+    "rating": 2.9
+  },
+  {
+    "restaurant_name": "Wine - Saint - Bris 2002, Sauv",
+    "cuisine": "Alaska Native",
+    "address": "26 Kropf Place",
+    "rating": 4.2
+  },
+  {
+    "restaurant_name": "Milk - Homo",
+    "cuisine": "Chamorro",
+    "address": "9212 Warner Place",
+    "rating": 2.4
+  },
+  {
+    "restaurant_name": "Transfer Sheets",
+    "cuisine": "Creek",
+    "address": "60292 Calypso Lane",
+    "rating": 3.8
+  },
+  {
+    "restaurant_name": "Bread - French Baquette",
+    "cuisine": "Iroquois",
+    "address": "52 Larry Trail",
+    "rating": 2.3
+  },
+  {
+    "restaurant_name": "Muffin Orange Individual",
+    "cuisine": "Guatemalan",
+    "address": "48 Linden Lane",
+    "rating": 2.8
+  },
+  {
+    "restaurant_name": "Cheese - Parmesan Cubes",
+    "cuisine": "Pima",
+    "address": "47599 Northland Junction",
+    "rating": 4.0
+  },
+  {
+    "restaurant_name": "Wonton Wrappers",
+    "cuisine": "Bangladeshi",
+    "address": "422 Kinsman Court",
+    "rating": 1.3
+  },
+  {
+    "restaurant_name": "Island Oasis - Lemonade",
+    "cuisine": "Laotian",
+    "address": "0 Division Park",
+    "rating": 1.8
+  },
+  {
+    "restaurant_name": "Tomatoes - Plum, Canned",
+    "cuisine": "Tongan",
+    "address": "1699 Coolidge Road",
+    "rating": 4.6
+  },
+  {
+    "restaurant_name": "Nut - Pumpkin Seeds",
+    "cuisine": "Chickasaw",
+    "address": "5424 Bowman Terrace",
+    "rating": 2.3
+  },
+  {
+    "restaurant_name": "Container Clear 8 Oz",
+    "cuisine": "Malaysian",
+    "address": "9688 Talmadge Park",
+    "rating": 4.2
+  },
+  {
+    "restaurant_name": "Veal - Inside Round / Top, Lean",
+    "cuisine": "Navajo",
+    "address": "400 2nd Court",
+    "rating": 4.2
+  },
+  {
+    "restaurant_name": "Soup Knorr Chili With Beans",
+    "cuisine": "White",
+    "address": "26 Service Way",
+    "rating": 4.5
+  },
+  {
+    "restaurant_name": "Oil - Canola",
+    "cuisine": "Samoan",
+    "address": "11 Schiller Point",
+    "rating": 3.8
+  },
+  {
+    "restaurant_name": "Dried Apple",
+    "cuisine": "Bangladeshi",
+    "address": "0 Cody Point",
+    "rating": 3.4
+  },
+  {
+    "restaurant_name": "Dome Lid Clear P92008h",
+    "cuisine": "Comanche",
+    "address": "65085 Fisk Hill",
+    "rating": 4.5
+  },
+  {
+    "restaurant_name": "Beef - Tenderloin Tails",
+    "cuisine": "Lumbee",
+    "address": "550 Kipling Pass",
+    "rating": 3.4
+  },
+  {
+    "restaurant_name": "Filling - Mince Meat",
+    "cuisine": "Chickasaw",
+    "address": "38323 Old Gate Lane",
+    "rating": 4.9
+  },
+  {
+    "restaurant_name": "Lettuce - Mini Greens, Whole",
+    "cuisine": "Aleut",
+    "address": "902 Badeau Parkway",
+    "rating": 2.0
+  },
+  {
+    "restaurant_name": "Pork - Liver",
+    "cuisine": "Creek",
+    "address": "0016 Forest Run Street",
+    "rating": 4.0
+  },
+  {
+    "restaurant_name": "Table Cloth 53x69 White",
+    "cuisine": "Sri Lankan",
+    "address": "977 Jenna Hill",
+    "rating": 3.6
+  },
+  {
+    "restaurant_name": "Shichimi Togarashi Peppeers",
+    "cuisine": "Ute",
+    "address": "5 Schurz Circle",
+    "rating": 1.1
+  },
+  {
+    "restaurant_name": "Wine - Sherry Dry Sack, William",
+    "cuisine": "Melanesian",
+    "address": "6 Calypso Place",
+    "rating": 2.2
+  },
+  {
+    "restaurant_name": "Tamarind Paste",
+    "cuisine": "Sioux",
+    "address": "863 Waxwing Crossing",
+    "rating": 3.8
+  },
+  {
+    "restaurant_name": "Milk - Chocolate 500ml",
+    "cuisine": "Delaware",
+    "address": "6013 Hoffman Avenue",
+    "rating": 4.1
+  },
+  {
+    "restaurant_name": "Pie Shell - 9",
+    "cuisine": "Bangladeshi",
+    "address": "3300 Granby Terrace",
+    "rating": 1.6
+  },
+  {
+    "restaurant_name": "Bag Clear 10 Lb",
+    "cuisine": "Blackfeet",
+    "address": "51 Arapahoe Way",
+    "rating": 4.8
+  },
+  {
+    "restaurant_name": "Pear - Halves",
+    "cuisine": "Iroquois",
+    "address": "35 Raven Pass",
+    "rating": 2.5
+  },
+  {
+    "restaurant_name": "Beans - Yellow",
+    "cuisine": "Colville",
+    "address": "7 Eagan Terrace",
+    "rating": 3.5
+  },
+  {
+    "restaurant_name": "Cheese - Ermite Bleu",
+    "cuisine": "Bangladeshi",
+    "address": "6389 Mariners Cove Junction",
+    "rating": 3.7
+  },
+  {
+    "restaurant_name": "Rice - Basmati",
+    "cuisine": "Chamorro",
+    "address": "30501 Spohn Drive",
+    "rating": 1.5
+  },
+  {
+    "restaurant_name": "Bacardi Limon",
+    "cuisine": "White",
+    "address": "0769 Amoth Hill",
+    "rating": 4.5
+  },
+  {
+    "restaurant_name": "Jolt Cola - Electric Blue",
+    "cuisine": "Native Hawaiian and Other Pacific Islander (NHPI)",
+    "address": "5259 Doe Crossing Road",
+    "rating": 3.1
+  },
+  {
+    "restaurant_name": "Soup - Cream Of Potato / Leek",
+    "cuisine": "Bangladeshi",
+    "address": "39043 Nobel Court",
+    "rating": 2.1
+  },
+  {
+    "restaurant_name": "Table Cloth 54x72 White",
+    "cuisine": "White",
+    "address": "552 Vermont Court",
+    "rating": 1.5
+  },
+  {
+    "restaurant_name": "Veal - Inside, Choice",
+    "cuisine": "Navajo",
+    "address": "691 Gulseth Parkway",
+    "rating": 3.0
+  },
+  {
+    "restaurant_name": "Ginsing - Fresh",
+    "cuisine": "Melanesian",
+    "address": "32 Hansons Road",
+    "rating": 4.9
+  },
+  {
+    "restaurant_name": "Assorted Desserts",
+    "cuisine": "Taiwanese",
+    "address": "5594 Ruskin Parkway",
+    "rating": 4.6
+  },
+  {
+    "restaurant_name": "Wheat - Soft Kernal Of Wheat",
+    "cuisine": "Crow",
+    "address": "05 Crowley Way",
+    "rating": 2.9
+  },
+  {
+    "restaurant_name": "Corn Shoots",
+    "cuisine": "Hmong",
+    "address": "396 Cardinal Avenue",
+    "rating": 1.4
+  }
+]
