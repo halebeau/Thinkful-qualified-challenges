@@ -1,0 +1,28 @@
+{
+  "name": "linear-seach",
+  "version": "1.0.0",
+  "description": "Practice for searching and sorting linear search.",
+  "main": "src/main.js",
+  "directories": {
+    "doc": "docs",
+    "src": "src",
+    "test": "__tests__"
+  },
+  "scripts": {
+    "docker:build": "docker image build . -t thinkful-ed/searching-sorting-01-linear-search",
+    "docker:run": "docker run --rm -it -p 3000:3000 thinkful-ed/searching-sorting-01-linear-search",
+    "docker:stop": "docker stop $(docker ps -q)",
+    "docker:test": "docker run -t thinkful-ed/searching-sorting-01-linear-search npm test",
+    "start": "node src/main.js",
+    "start:solution": "npm run -it docker:build && npm run docker:run",
+    "test": "jest",
+    "test:solution": "npm run docker:build && npm run docker:test",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
