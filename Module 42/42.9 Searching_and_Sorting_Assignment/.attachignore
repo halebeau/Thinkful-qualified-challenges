@@ -1,0 +1,5 @@
+__tests__/sort.test.js
+__tests__/submission.test.js
+__tests__/searchByEmail.test.js
+__tests__/sortByName.test.js
+__tests__/searchByName.test.js

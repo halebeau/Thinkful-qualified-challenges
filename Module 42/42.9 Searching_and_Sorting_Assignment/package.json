@@ -1,0 +1,27 @@
+{
+  "name": "searching-sorting-assignment",
+  "version": "1.0.0",
+  "description": "Assignment for searching and sorting assignment.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "__tests__"
+  },
+  "scripts": {
+    "docker:build": "docker image build . -t thinkful-ed/searching-sorting-xx-assignment",
+    "docker:run": "docker run --rm -it -p 3000:3000 thinkful-ed/searching-sorting-xx-assignment",
+    "docker:stop": "docker stop $(docker ps -q)",
+    "docker:test": "docker run -t thinkful-ed/searching-sorting-xx-assignment npm test",
+    "start:solution": "npm run -it docker:build && npm run docker:run",
+    "test": "jest",
+    "test:solution": "npm run docker:build && npm run docker:test",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "jest-reporter": "^1.0.1"
+  }
+}
