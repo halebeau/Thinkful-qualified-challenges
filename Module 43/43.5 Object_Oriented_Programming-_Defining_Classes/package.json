@@ -1,0 +1,26 @@
+{
+  "name": "zid-pf-object-oriented-programming-01-defining-classes",
+  "version": "1.0.0",
+  "description": "zid-pf-object-oriented-programming-01-defining-classes qualified challenge.",
+  "main": "src/app.js",
+  "directories": {
+    "src": "src",
+    "doc": "docs"
+  },
+  "scripts": {
+    "docker:build": "docker image build . -t thinkful-ed/zid-pf-object-oriented-programming-01-defining-classes",
+    "docker:run": "docker run --rm -it -p 3000:3000 thinkful-ed/zid-pf-object-oriented-programming-01-defining-classes",
+    "docker:stop": "docker stop $(docker ps -q)",
+    "docker:test": "docker run -t  thinkful-ed/zid-pf-object-oriented-programming-01-defining-classes npm test",
+    "start:solution": "npm run -it docker:build && npm run docker:run",
+    "test": "mocha test",
+    "test:solution": "npm run docker:build && npm run docker:test"
+  },
+  "keywords": [],
+  "author": "Thinkful.com",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2"
+  }
+}
